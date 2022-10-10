@@ -1,8 +1,8 @@
-#Proyecto Final de SQL Teka
+# Proyecto Final de SQL Teka
 
 Se creó una base de datos para la mueblería Teka Livings. 
 
-##Herramientas utilizadas:
+## Herramientas utilizadas:
 
 -MySQL: Motor de base de batos
 -MySQL Workbench: herramienta de interfaz de usuario
